@@ -1,7 +1,8 @@
 # PrivateDOGP.github.io
-Official (non-official) website for Dogecoin Private. Decentralized. Doge powered. Masternodes. POS. Anonymous Transactions and of course to da moon!
 
 <img src="http://PrivateDOGP.github.io/githubpages.jpg">
+
+Official (non-official) website for Dogecoin Private. Decentralized. Doge powered. Masternodes. POS. Anonymous Transactions and of course to da moon!
 
 Get some up to date info about Dogecoin Private here on the website hosted freely by GithubPages!  MuchHTML.
 
