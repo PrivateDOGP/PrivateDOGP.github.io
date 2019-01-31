@@ -11,3 +11,5 @@ GithubPages allows free hosting of static content that is not database driven. S
 Feel free as the DOGP community to star your own Dogecoin Private website! 
 
 #MuchPrivate :-)
+
+"42skdisi29"
